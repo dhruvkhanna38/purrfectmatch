@@ -1,0 +1,30 @@
+#content{
+	text-align: center;
+	padding-top: 12.5%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 4px rgba(0,0,0,0.3),
+				 0px 5px 1px rgba(0,0,0,0.2);
+}
+body{
+	background: url(https://images.unsplash.com/photo-1452457763481-bf66c83f94ee?auto=format&fit=crop&w=591&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+html{
+	height: 100%;
+}
+body{
+	font-family: Lato;
+}
+h1{
+	font-weight: 700;
+	color: white;
+	font-size: 5em;
+}
+h3{
+	color:white;
+}
+hr{
+	width: 400px;
+}
